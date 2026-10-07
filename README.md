@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -38,7 +38,7 @@
         }
         h2.day-title {
             background-color: var(--primary-color);
-            color: #fff;
+****            color: #fff;
             padding: 12px 20px;
             border-radius: 6px;
             margin-top: 40px;
@@ -393,7 +393,7 @@
             <li>Computadoras con Internet</li>
             <li>Plataforma Code.org</li>
  <li>Ficha de trabajo impresa (Ficha 1 - Simón dice) Se encuentra en el escritorio</li>
-<img src="/tercer.png" alt="Computadora">
+<img src="tercer.png" alt="Computadora">
         </ul>
 
         <div class="special-notes">
@@ -426,7 +426,7 @@
         <h4>Recursos:</h4>
         <ul>
             <li>Ficha de trabajo impresa (Ficha 1 - Simón dice) Se encuentra en el escritorio</li>
-<img src="/materno.png" alt="Computadora">
+<img src="materno.png" alt="Computadora">
             <li>Lápices de colores</li>
         </ul>
 
@@ -459,7 +459,7 @@
         <ul>
             <li>Computadoras con navegador Web</li>
             <li>Mapa / Ficha Murdoku Tecnológico</li>
-<img src="/murdoku.png" alt="Computadora">
+<img src="murdoku.png" alt="Computadora">
 
         </ul>
 
@@ -562,7 +562,7 @@ Es el menú que aparece al hacer clic en el botón Inicio. Desde allí podemos b
         <h4>Recursos:</h4>
         <ul>
             <li>Ficha de trabajo impresa (Ficha 1 - Simón dice)</li>
-<img src="/materno.png" alt="Computadora">
+<img src="materno.png" alt="Computadora">
 
             <li>Lápices de color</li>
         </ul>
