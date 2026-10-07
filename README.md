@@ -393,7 +393,7 @@
             <li>Computadoras con Internet</li>
             <li>Plataforma Code.org</li>
  <li>Ficha de trabajo impresa (Ficha 1 - Simón dice) Se encuentra en el escritorio</li>
-<img src="tercer.png" alt="Computadora">
+<img src="tercero.png" alt="Computadora">
         </ul>
 
         <div class="special-notes">
