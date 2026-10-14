@@ -588,7 +588,9 @@ Es el menú que aparece al hacer clic en el botón Inicio. Desde allí podemos b
 ¿Qué colores utilizarás?
 ¿Qué figuras geométricas puedes incorporar?
 ¿Qué detalles agregarás para decorar tu dibujo?
-</li>
+</li> 
+<p>Debe indicar que la historia se divide en inicio - desarrollo y conclusión, para ello solicite a los estudiantes anotar estas 3 etapas escribir en la pizarra , que el inicio es ¿Cómo va a comenzar la hisoria?, desarrollo ¿Qué va a suceder durante esta? y conclusión ¿Qué sucedio al final de la historia?. Si no traen hojas en el armario atrás del escritorio , hay hojitas. Además el dibujo que van a realizar en la computadora deben anotar las 3 etapas en la misma hoja. Indicar que le coloquen un nombre al cuento y despúes pueden realizar el dibujo en tux</p>
+
             <li>Acompañar el proceso de creación en la computadora solicitando el uso de diferentes herramientas (Pincel, Formas, Sellos, etc.).</li>
             <li>Guiar el cierre con la presentación voluntaria de los dibujos.</li>
             <li>Acompañar a los estudiantes a su aula faltando 5 minutos para terminar.</li>
